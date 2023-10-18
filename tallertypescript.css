@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=B612');
+
+
+body {
+    font-family: "Helvetica";
+    font-size: 18px;
+  }
+#photoCard{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#seasons{
+    margin-left: 50px;
+}
+
+#series {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-left:50px;
+    margin-top: 50px;; 
+    margin-right:auto;
+}
+#series thead th {
+    background-color: #ffffff;
+    /* border: solid 1px #DDEEEE; */
+    color: #000000;
+    padding: 10px;
+    text-align: left;
+    /* text-shadow: 1px 1px 1px #fff; */
+}
+#series tbody td {
+    border: solid 1px #DDEEEE;
+    color: #030303;
+    padding: 10px;
+    text-align: left;
+    /* text-shadow: 1px 1px 1px #fff; */
+}
